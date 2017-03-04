@@ -3,5 +3,6 @@
 # Metodologia Usada: Scrum 
 ### Que es Scrum
 Aqui vas a describir que es scrum
+<center>
 ![Esta es una Imagen](https://www.cubicerp.com/website/image?field=datas&model=ir.attachment&id=63)
-
+</center>
