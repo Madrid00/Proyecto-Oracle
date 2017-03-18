@@ -6,7 +6,7 @@
     </servlet>
     <servlet-mapping>
         <servlet-name>ServletAutenticar</servlet-name>
-        <url-pattern>/Autenticar.aspx</url-pattern>
+        <url-pattern>/Ingresar.aspx</url-pattern>
     </servlet-mapping>
     <session-config>
         <session-timeout>
